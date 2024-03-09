@@ -1,0 +1,29 @@
+{
+  "name": "react-neo-nova",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "neo-nova-test",
+    "build": "tsc",
+    "dev": "node ./lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Washim-Bari/react-neo-nova.git"
+  },
+  "keywords": [
+    "react-neo-nova",
+    "neo",
+    "nova"
+  ],
+  "author": "Washim Bari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Washim-Bari/react-neo-nova/issues"
+  },
+  "homepage": "https://github.com/Washim-Bari/react-neo-nova#readme",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  }
+}
